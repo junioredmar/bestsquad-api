@@ -1,1 +1,2 @@
-# bestsquad-api
+# TODO: rename the solution to :
+Topsquads.sln
